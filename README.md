@@ -16,21 +16,26 @@ A Central DATADOC, por meio da *API* [ Brasilian Elections Python](https://githu
   
 Os códigos para coleta e processamento dos dados estão disponíveis [neste notebook](/InfoViz_Mulheres_no_Poder.ipynb), em python. Outras visualizações e análises estão disponíveis [nesta página](https://observablehq.com/embed/@cajazeiraramos/infoviz-mulheres-no-poder?cells=scrollChart%2Cgeral%2CdownloadG%2Ctitle%2Cviewof+apenas_eleitos%2Cviewof+selected_uf%2Cviewof+selected_partido%2CdownloadG1%2Cfonte%2Ctitle2%2CdownloadG2%2CscrollChart2%2Cfonte2%2Ctitle3%2CdownloadG3%2Cviewof+year2%2Cviewof+cb_cargos%2CdatavizMap%2Clegenda_mapa%2Cfonte3). A base de dados utilizada na reportagem, bem como os recortes e valores agregados em cada gráfico, estão listados abaixo:
 
-#### Arquivos gerados:
+### Arquivos gerados:
 
- - Base de dados completa [neste arquivo](/arquivos_gerados/dados_eleicoes.csv);
- - [Proporção entre homens e mulheres eleitas no Ceará, por Cargo e Eleição](/arquivos_gerados/Proporção entre homens e mulheres eleitas no Ceará, por Cargo e Eleição.csv);
-     - Gráfico disponível [neste link](https://public.flourish.studio/visualisation/9289780/)
- - [Percentual de mulheres eleitas no Brasil por UF, Cargo e Eleição]()
-     - Gráfico disponível [neste link](https://observablehq.com/embed/@cajazeiraramos/infoviz-mulheres-no-poder?cells=datavizMap%2Cviewof+year2%2Cviewof+cb_cargos%2Clegenda_mapa%2Cfonte3)
- - [Proporção entre homens e mulheres eleitas no Brasil, por Cargo e Eleição]()
-     - Gráfico disponível [neste link](https://public.flourish.studio/visualisation/9044760/)
- - [Percentual de mulheres entre candidatos e eleitos no Ceará, por eleição]()
-     - Gráfico disponível [neste link](https://public.flourish.studio/visualisation/9298839/)
- - [Distribuição da Raça/Cor das mulheres candidatas e eleitas no Brasil em 2018]() 
-     - Gráfico disponível [neste link](https://public.flourish.studio/visualisation/9287731/)
- - [Escolaridade das Mulheres eleitas no Ceará]()
-     - Gráfico disponível [neste link](https://public.flourish.studio/visualisation/9290164/)
+**_Dataframes_**
+ - `dados_eleicoes.csv`: base de dados completa;
+ - `eleitas_ce_2018.csv`: mulheres eleitas no Ceará em 2018.
+ - `prop_genero_ceara.csv`: proporção de mulheres eleitas no Ceará, por cargo e eleição;
+ - `prop_genero_brasil_por_uf.csv`: proporção de mulheres eleitas no Brasil por UF, cargo e eleição;
+ - `prop_genero_brasil.csv`: proporção entre homens e mulheres eleitas no Brasil, por cargo e eleição
+ - `prop_mulheres_candidatos_eleitos_ceara.csv`: proporção de mulheres entre candidatos e eleitos no Ceará, por eleição;
+ - `raca_cor_mulheres_br.csv`: distribuição da Raça_Cor das mulheres candidatas e eleitas no Brasil em 2018;
+ - `esc_eleitas_ce.csv`: escolaridade das mulheres eleitas no Ceará;
+
+**_Visualizações_**
+- [Proporção de mulheres eleitas no Ceará, por Cargo e Eleição](https://public.flourish.studio/visualisation/9289780/)
+- [Proporção de mulheres eleitas no Brasil, por UF, Cargo e Eleição](https://observablehq.com/embed/@cajazeiraramos/infoviz-mulheres-no-poder?cells=datavizMap%2Cviewof+year2%2Cviewof+cb_cargos%2Clegenda_mapa%2Cfonte3)
+- [Proporção de mulheres eleitas no Brasil, Cargo e Eleição](https://public.flourish.studio/visualisation/9044760/)
+- [Percentual de mulheres entre candidatos e eleitos no Ceará, por eleição](https://public.flourish.studio/visualisation/9298839/)
+- [Distribuição da Raça_Cor das mulheres candidatas e eleitas no Brasil em 2018](https://public.flourish.studio/visualisation/9287731/)
+- [Escolaridade das mulheres eleitas no Ceará](https://public.flourish.studio/visualisation/9290164/)
+
 
 #### Como utilizar:
 
@@ -54,4 +59,4 @@ A DATADOC é composta por uma equipe de três jornalistas (sendo uma infografist
 
 --------------------------------------
  
-🗓️🕵🏻 Confira também outras produções recentes da central DATADOC: O especial ***#CredosDeFortaleza***, que revelou benefícios fiscais indevidos, templos fantasmas e os principais devedores do fisco, está disponível no link: [https://bit.ly/3gkGPyF](https://bit.ly/3gkGPyF)
+🗓️🕵🏻 Confira também outras produções recentes da central DATADOC: ***Cancioneiro das múltiplas Fortalezas*** - Em seus 296 anos, Fortaleza é diversa. É a cidade do mar, do sol, do vento. Mas também da repressão e da violência, da economia solidária e da arte feita por todo lado. Toda essa pluralidade está expressa em músicas que cantam a Capital ao longo dos anos. É isso que aponta a análise feita pela Central de Jornalismo de Dados do O POVO - DATADOC, disponível [neste link](https://bit.ly/3jzf4nC).
