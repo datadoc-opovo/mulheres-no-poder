@@ -23,9 +23,9 @@ Os códigos para coleta e processamento dos dados estão disponíveis [neste not
      - Gráfico disponível [neste link](https://public.flourish.studio/visualisation/9289780/)
  - [Percentual de mulheres eleitas no Brasil por UF, Cargo e Eleição]()
      - Gráfico disponível [neste link](https://observablehq.com/embed/@cajazeiraramos/infoviz-mulheres-no-poder?cells=datavizMap%2Cviewof+year2%2Cviewof+cb_cargos%2Clegenda_mapa%2Cfonte3)
- - [Proporção entre homens e mulheres eleitas no Brasil, por Cargo e Eleição]();
+ - [Proporção entre homens e mulheres eleitas no Brasil, por Cargo e Eleição]() ;
      - Gráfico disponível [neste link](https://public.flourish.studio/visualisation/9044760/)
- - [Percentual de mulheres entre candidatos e eleitos no Ceará, por eleição]();
+ - [Percentual de mulheres entre candidatos e eleitos no Ceará, por eleição]() ;
      - Gráfico disponível [neste link](https://public.flourish.studio/visualisation/9298839/)
  - [Distribuição da Raça/Cor das mulheres candidatas e eleitas no Brasil em 2018]() 
      - Gráfico disponível [neste link](https://public.flourish.studio/visualisation/9287731/)
