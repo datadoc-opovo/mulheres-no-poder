@@ -28,7 +28,7 @@ Os códigos para coleta e processamento dos dados estão disponíveis [neste not
  - [Percentual de mulheres entre candidatos e eleitos no Ceará, por eleição]()
      - Gráfico disponível [neste link](https://public.flourish.studio/visualisation/9298839/)
  - [Distribuição da Raça/Cor das mulheres candidatas e eleitas no Brasil em 2018]() 
-     - Gráfico disponível [neste link](https://public.flourish.studio/visualisation/9287731/).
+     - Gráfico disponível [neste link](https://public.flourish.studio/visualisation/9287731/)
  - [Escolaridade das Mulheres eleitas no Ceará]()
      - Gráfico disponível [neste link](https://public.flourish.studio/visualisation/9290164/)
 
