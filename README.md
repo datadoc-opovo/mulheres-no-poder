@@ -20,17 +20,17 @@ Os códigos para coleta e processamento dos dados estão disponíveis [neste not
 
  - Base de dados completa [neste arquivo](/arquivos_gerados/dados_eleicoes.csv);
  - [Proporção entre homens e mulheres eleitas no Ceará, por Cargo e Eleição](/arquivos_gerados/Proporção entre homens e mulheres eleitas no Ceará, por Cargo e Eleição.csv);
-     - Gráfico disponível ![neste link](https://public.flourish.studio/visualisation/9289780/).
- - [Percentual de mulheres eleitas no Brasil por UF, Cargo e Eleição]();
-     - Gráfico disponível [neste link](https://observablehq.com/embed/@cajazeiraramos/infoviz-mulheres-no-poder?cells=datavizMap%2Cviewof+year2%2Cviewof+cb_cargos%2Clegenda_mapa%2Cfonte3).
+     - Gráfico disponível [neste link](https://public.flourish.studio/visualisation/9289780/)
+ - [Percentual de mulheres eleitas no Brasil por UF, Cargo e Eleição]()
+     - Gráfico disponível [neste link](https://observablehq.com/embed/@cajazeiraramos/infoviz-mulheres-no-poder?cells=datavizMap%2Cviewof+year2%2Cviewof+cb_cargos%2Clegenda_mapa%2Cfonte3)
  - [Proporção entre homens e mulheres eleitas no Brasil, por Cargo e Eleição]();
-     - Gráfico disponível [neste link](https://public.flourish.studio/visualisation/9044760/).
+     - Gráfico disponível [neste link](https://public.flourish.studio/visualisation/9044760/)
  - [Percentual de mulheres entre candidatos e eleitos no Ceará, por eleição]();
-     - Gráfico disponível [neste link](https://public.flourish.studio/visualisation/9298839/).
+     - Gráfico disponível [neste link](https://public.flourish.studio/visualisation/9298839/)
  - [Distribuição da Raça/Cor das mulheres candidatas e eleitas no Brasil em 2018]() 
-     - Gráfico disponível [neste link](https://public.flourish.studio/visualisation/9287731/).
+     - Gráfico disponível [neste link](https://public.flourish.studio/visualisation/9287731/)
  - [Escolaridade das Mulheres eleitas no Ceará]();  
-     - Gráfico disponível [neste link](https://public.flourish.studio/visualisation/9290164/).
+     - Gráfico disponível [neste link](https://public.flourish.studio/visualisation/9290164/)
 
 #### Como utilizar:
 
