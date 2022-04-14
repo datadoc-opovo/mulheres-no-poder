@@ -20,7 +20,7 @@ Os códigos para coleta e processamento dos dados estão disponíveis [neste not
 
  - Base de dados completa [neste arquivo](/arquivos_gerados/dados_eleicoes.csv);
  - [Proporção entre homens e mulheres eleitas no Ceará, por Cargo e Eleição](/arquivos_gerados/Proporção entre homens e mulheres eleitas no Ceará, por Cargo e Eleição.csv);
-     - Gráfico disponível [neste link](https://public.flourish.studio/visualisation/9289780/).
+     - Gráfico disponível ![neste link](https://public.flourish.studio/visualisation/9289780/).
  - [Percentual de mulheres eleitas no Brasil por UF, Cargo e Eleição]();
      - Gráfico disponível [neste link](https://observablehq.com/embed/@cajazeiraramos/infoviz-mulheres-no-poder?cells=datavizMap%2Cviewof+year2%2Cviewof+cb_cargos%2Clegenda_mapa%2Cfonte3).
  - [Proporção entre homens e mulheres eleitas no Brasil, por Cargo e Eleição]();
